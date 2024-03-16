@@ -1,8 +1,8 @@
-### Olá! Eu sou a Vanessa Carvalho👋
+### Olá! Eu sou Vanessa de Carvalho👋
 
 - 🔭Desenvolvedora back-end C# CSHARP
--  Estudando: HTML, CSS, JavaScript, ASP.NET Core
-- 😄 Pronouns: ela/dela
+-  Estudando: CSharp C# | ASP.NET Core | SQL Server
+- 😄 
 
 
 <div align="center">
