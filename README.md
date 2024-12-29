@@ -7,7 +7,11 @@ Me chamo Vanessa Erika de Carvalho, tenho 43 anos e sou natural de São Paulo.
 Conclui a faculdade em junho de 2020, e atualmente venho estudando as tecnologias ASP.NETCore,
 EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnologia e venho aprimorando meus conhecimentos.
 
-  
+  <br/>
+<br/>
+
+### 📊 Estatísticas
+
 <div align="center">
   <a href="https://github.com/VanessaCarvalho-VNS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
