@@ -5,7 +5,8 @@
  
 Me chamo Vanessa Erika de Carvalho, tenho 43 anos e sou natural de São Paulo.
 Conclui a faculdade em junho de 2020, e atualmente venho estudando as tecnologias ASP.NETCore,
-EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnologia e venho aprimorando meus conhecimentos.<br/>
+EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnologia e venho aprimorando meus conhecimentos.
+<hr>
 
 ### 📊 Estatísticas
 
@@ -13,7 +14,7 @@ EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnolog
   <a href="https://github.com/VanessaCarvalho-VNS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><hr>
    
    ### 🤖 Linguagens e Tecnologias
    
@@ -24,7 +25,7 @@ EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnolog
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+</div><hr>
   
  ### 🤖 Rede Sociais 
   
