@@ -8,9 +8,11 @@ Conclui a faculdade em junho de 2020, e atualmente venho estudando as tecnologia
 EntityFrameworkCore, C#, APIs RestFulls e SQLServer. Sou apaixonada por tecnologia e venho aprimorando meus conhecimentos.
 
 <br/>
+<br/>
 
 ### 📊 Estatísticas
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/VanessaCarvalho-VNS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&langs_count=7&theme=dracula"/>
