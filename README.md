@@ -1,11 +1,6 @@
 # 👩‍💻 Vanessa Carvalho
 
-  **`Desenvolvedora Backend CSHARP | C#`**
-
- 
-Me chamo Vanessa Erika de Carvalho, tenho 43 anos e sou natural de São Paulo.
-Conclui a faculdade em junho de 2020, e atualmente venho estudando as tecnologias ASP.NETCore,
-EntityFrameworkCore, C#, API RestFul e SQLServer. Sou apaixonada por tecnologia e venho aprimorando meus conhecimentos.
+  **`Desenvolvedora Backend • C# • ASP.NET • SQLServer`**
 
  <div> 
   <a href="https://instagram.com/vanessa.erika._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
