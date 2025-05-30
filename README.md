@@ -50,17 +50,19 @@
 - Portfólio: [https://github.com/VanessaCarvalho-VNS](https://github.com/VanessaCarvalho-VNS)
 - Email: vnscarvalh@gmail.com
 
----
-
-<p align="center"><i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i></p>
-
-
- <div> 
+- <div align="center"> 
   <a href="https://instagram.com/vanessa.erika._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:contatovnscarvalh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/VanessaCarvalho20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <hr>
  </div>
+
+---
+
+<p align="center"><i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i></p>
+
+
+ 
 
 
   
