@@ -1,4 +1,3 @@
-# 👩‍💻 Vanessa Carvalho
 <h1 align="center">👩‍💻 Olá, eu sou a Vanessa Carvalho!</h1>
 
 <p align="center">
@@ -31,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -47,9 +46,9 @@
 
 ### 📫 Vamos nos conectar?
 
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Portfólio: [https://seuportfolio.com](https://seuportfolio.com)
-- Email: seunome@email.com
+- LinkedIn: [linkedin.com/in/vanessacarvalho20](https://linkedin.com/in/vanessacarvalho20)
+- Portfólio: [https://github.com/VanessaCarvalho-VNS](https://github.com/VanessaCarvalho-VNS)
+- Email: vnscarvalh@gmail.com
 
 ---
 
