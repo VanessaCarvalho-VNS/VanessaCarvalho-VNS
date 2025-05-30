@@ -38,10 +38,10 @@
 
 ### 💼 Projetos em destaque
 
-- 💅 [Esmalteria Glamour](https://github.com/SEU_USUARIO/esmalteria-glamour) – sistema completo com agendamento, login e catálogo de serviços
-- 📒 [Agenda Dr Silva](https://github.com/SEU_USUARIO/agenda-advogado) – organização de compromissos jurídicos com ASP.NET Core
-- 🐾 [Sistema Pet Shop](https://github.com/SEU_USUARIO/petshop-system) – gerenciamento de clientes, animais e serviços veterinários
-
+- 📖 [Livro de Receita](https://github.com/VanessaCarvalho-VNS/Livro-de-Receita) – Devops
+- 📕 [API Catalogo](https://github.com/VanessaCarvlho-VNS/API-Catalogo) – API de produtos e categorias usando ASP.NET Core Web API
+- 🍔 [Vendas de Lanches](https://github.com/VanessaCarvalho/Lanches-Mac) – Criando um site de venda de lanches usando ASP.NET Core MVC e EFCore
+  
 ---
 
 ### 📫 Vamos nos conectar?
@@ -50,11 +50,11 @@
 - Portfólio: [https://github.com/VanessaCarvalho-VNS](https://github.com/VanessaCarvalho-VNS)
 - Email: vnscarvalh@gmail.com
 
-- <div align="center"> 
+ <div align="center"> 
   <a href="https://instagram.com/vanessa.erika._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:contatovnscarvalh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/VanessaCarvalho20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<hr>
+  <a href="https://www.github.com/VanessaCarvalho-VNS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  </div>
 
 ---
