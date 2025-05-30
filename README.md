@@ -1,6 +1,60 @@
 # 👩‍💻 Vanessa Carvalho
+<h1 align="center">👩‍💻 Olá, eu sou a Vanessa Carvalho!</h1>
 
-  **`Desenvolvedora Backend • C# • ASP.NET • SQLServer`**
+<p align="center">
+  <i>Desenvolvedora apaixonada por transformar ideias em soluções digitais!</i>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela UNISA  
+📚 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Zona Sul  
+💻 Foco atual: **ASP.NET Core**, **C#**, **Entity Framework**, **Angular** e **SQL Server**  
+🌐 Criadora do site <strong>C.L Soluções</strong>  
+💅 Desenvolvendo sistemas para <strong>Esmalteria Glamour</strong>, pet shop e agenda de advogados
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 💼 Projetos em destaque
+
+- 💅 [Esmalteria Glamour](https://github.com/SEU_USUARIO/esmalteria-glamour) – sistema completo com agendamento, login e catálogo de serviços
+- 📒 [Agenda Dr Silva](https://github.com/SEU_USUARIO/agenda-advogado) – organização de compromissos jurídicos com ASP.NET Core
+- 🐾 [Sistema Pet Shop](https://github.com/SEU_USUARIO/petshop-system) – gerenciamento de clientes, animais e serviços veterinários
+
+---
+
+### 📫 Vamos nos conectar?
+
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- Portfólio: [https://seuportfolio.com](https://seuportfolio.com)
+- Email: seunome@email.com
+
+---
+
+<p align="center"><i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i></p>
+
 
  <div> 
   <a href="https://instagram.com/vanessa.erika._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
