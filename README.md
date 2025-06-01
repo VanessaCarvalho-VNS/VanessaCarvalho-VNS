@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Olá, eu sou a Vanessa Carvalho!</h1>
+<h1 align="center">👩🏻‍💻 Olá, eu sou a Vanessa Carvalho!</h1>
 
 <p align="center">
   <i>Desenvolvedora apaixonada por transformar ideias em soluções digitais!</i>
