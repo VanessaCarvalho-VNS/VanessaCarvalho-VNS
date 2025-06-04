@@ -10,7 +10,7 @@
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela UNISA  
 📚 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Zona Sul  
-💻 Foco atual: **ASP.NET Core**, **C#**, **Entity Framework**, **Angular** e **SQL Server**  
+💻 Foco atual: **ASP.NET Core**, **C#**, **Entity Framework** e **SQL Server**  
 🌐 Criadora do site <strong>C.L Soluções</strong>  
 💅 Desenvolvendo sistemas para <strong>Esmalteria Glamour</strong>, pet shop e agenda de advogados
 
