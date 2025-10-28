@@ -41,7 +41,7 @@
 - 📖 [Livro de Receita](https://github.com/VanessaCarvalho-VNS/Livro-de-Receita) – Devops
 - 📕 [API Catalogo](https://github.com/VanessaCarvlho-VNS/API-Catalogo) – API de produtos e categorias usando ASP.NET Core Web API
 - 🍔 [Vendas de Lanches](https://github.com/VanessaCarvalho/Lanches-Mac) – Criando um site de venda de lanches usando ASP.NET Core MVC e EFCore
-- 📖 [Sistemabiblio](https://github.com/VanessaCarvalho/sistemabiblio) – Projeto Acadêmico) Site de Biblioteca e cursos gratuitos usando PHP, JS, HTML, CSS e Bootstrap 
+- 📖 [Sistemabiblio](https://github.com/VanessaCarvalho/sistemabiblio) – (Projeto Acadêmico) Site de Biblioteca e cursos gratuitos usando PHP, JS, HTML, CSS e Bootstrap 
   
 ---
 
