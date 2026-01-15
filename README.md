@@ -30,7 +30,17 @@
 ### 📊 GitHub Stats
 
 
-https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=radical"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&langs_count=7&theme=radical"
+  />
+</div>
+
 
 ---
 
