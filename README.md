@@ -41,6 +41,8 @@
   />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true)
+
 
 ---
 
