@@ -30,14 +30,13 @@
 ### 📊 GitHub Stats
 
 
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=radical"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=radical"
-  />
+  <img src="https://img.shields.io/github/stars/VanessaCarvalho-VNS?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/VanessaCarvalho-VNS?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/VanessaCarvalho-VNS?style=for-the-badge" />
 </p>
+
 
 ---
 
