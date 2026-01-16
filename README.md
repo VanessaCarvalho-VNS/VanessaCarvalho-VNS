@@ -41,7 +41,8 @@
   />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=radical)
 
 
 ---
