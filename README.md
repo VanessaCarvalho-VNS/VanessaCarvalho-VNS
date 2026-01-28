@@ -28,17 +28,12 @@
 ---
 
 ### 📊 GitHub Stats
-<div>
-<p align="center">
- ![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula)
- ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact)
-</p>
-</div>
+
 
 <div>
   <a href="https://github.com/VanessaCarvalho-VNS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits-true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=VanessaCarvalho-VNS-compact&langs_count=16&teme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=VanessaCarvalho-VNS-compact&teme=dracula"/>
 </div>
 
 ---
