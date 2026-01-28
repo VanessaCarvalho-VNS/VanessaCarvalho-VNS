@@ -33,7 +33,7 @@
 <div>
   <a href="https://github.com/VanessaCarvalho-VNS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits-true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=VanessaCarvalho-VNS-compact&teme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
 </div>
 
 ---
