@@ -29,12 +29,10 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
  ![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula)
+ ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact)
 </p>
-
-
 
 ---
 
