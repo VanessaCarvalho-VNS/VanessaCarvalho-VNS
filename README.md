@@ -4,10 +4,6 @@
   <i>Desenvolvedora apaixonada por transformar ideias em soluções digitais</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanessaCarvalho-VNS&label=Profile%20views&color=6f42c1&style=flat" />
-</p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -36,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
 </p>
 
