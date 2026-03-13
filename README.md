@@ -31,9 +31,9 @@
 ## 📊 GitHub Stats
 
  <p align="center">
-  <img height="180em" src="https://github-readme-stats-lyart-pi-93.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-lyart-pi-93.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
 </p>
 
 ---
