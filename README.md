@@ -30,10 +30,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula&langs_count=7&cache_seconds=1800"/>
+
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
 </p>
 
 ---
