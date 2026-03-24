@@ -1,3 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:C77DFF&section=header"/>
+<br>
+
+<div align="center">
+  <img align="center" height="150" src="" />
+</div>
+
 <h2 align="center">👩🏻‍💻 Olá, eu sou a Vanessa Carvalho!</h2>
 
 <p align="center">
@@ -31,12 +38,18 @@
 ## 📊 GitHub Stats
 
 
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117&include_all_commits=true">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanessaCarvalho-VNS&theme=zenburn&include_all_commits=true"/>
+</div>
 
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula"/>
-</p>
+
+
+
 
 ---
 
@@ -88,3 +101,6 @@
 <p align="center">
   <i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i>
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:C77DFF&customColorList=23&section=footer"/>
