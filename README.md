@@ -48,12 +48,6 @@
 
 <div align="center">
 
-<img height="165" align="center" alt="GitHub Stats"
-src="https://github-readme-stats/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-
-<img height="180" align="center" alt="Top Languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
-
  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&hide_border=true&show_icons=true&rank_icon=github&title_color=C77DFF&icon_color=C77DFF&text_color=E6CCFF&bg_color=0d1117&include_all_commits=true">
 <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&hide_border=true&title_color=C77DFF&text_color=E6CCFF&bg_color=0d1117">
   
