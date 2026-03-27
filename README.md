@@ -54,7 +54,7 @@
   <br>
   <br>
 
-<img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanessaCarvalho-VNS&theme=tokyonight&bg_color=0d1117&include_all_commits=true"/>
+<img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanessaCarvalho-VNS&theme=dracula&bg_color=0d1117&include_all_commits=true"/>
 </div>
 
 ---
