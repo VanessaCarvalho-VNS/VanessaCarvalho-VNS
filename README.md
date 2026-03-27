@@ -46,11 +46,14 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&hide_border=true&show_icons=true&rank_icon=github&title_color=C77DFF&icon_color=C77DFF&text_color=E6CCFF&bg_color=0d1117&include_all_commits=true" />
+</p>
 
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&hide_border=true&show_icons=true&rank_icon=github&title_color=C77DFF&icon_color=C77DFF&text_color=E6CCFF&bg_color=0d1117&include_all_commits=true)
+
 
  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&hide_border=true&show_icons=true&rank_icon=github&title_color=C77DFF&icon_color=C77DFF&text_color=E6CCFF&bg_color=0d1117&include_all_commits=true">
 <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&hide_border=true&title_color=C77DFF&text_color=E6CCFF&bg_color=0d1117">
