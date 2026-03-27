@@ -49,7 +49,7 @@
 <div align="center">
 
 <img height="165" align="center" alt="GitHub Stats"
-src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+src="https://github-readme-stats/api?username=VanessaCarvalho-VNS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" />
 
 <img height="180" align="center" alt="Top Languages"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
