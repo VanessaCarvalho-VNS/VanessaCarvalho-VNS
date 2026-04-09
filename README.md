@@ -61,23 +61,27 @@
 
 ---
 
-##  Projetos em destaque
 
-- 📖 **Livro de Receita**  
-  🔗 https://github.com/VanessaCarvalho-VNS/Livro-de-Receita  
-  🛠️ DevOps
+## 🚀 Projetos em Destaque
 
-- 📕 **API Catálogo**  
-  🔗 https://github.com/VanessaCarvalho-VNS/API-Catalogo  
-  🛠️ ASP.NET Core Web API
+📖 **Livro de Receita** 
+🛠️ Em Desenvolvimento
+🔗 DevOps  
 
-- 🍔 **Vendas de Lanches**  
-  🔗 https://github.com/VanessaCarvalho/Lanches-Mac  
-  🛠️ ASP.NET Core MVC + EF Core
+📕 **API Catálogo**  
+🔗 ASP.NET Core  
 
-- 📚 **SistemaBiblio** *(Projeto Acadêmico)*  
-  🔗 https://github.com/VanessaCarvalho/sistemabiblio  
-  🛠️ PHP, JavaScript, HTML, CSS e Bootstrap
+🍔 **Lanches Mac**  
+🔗 ASP.NET MVC + EF Core  
+
+📚 **Sistema Biblioteca** *(Acadêmico)*  
+🔗 PHP • JavaScript • Bootstrap  
+
+⚖️ **Agenda Jurídica** *(Acadêmico)*  
+🛠️ Em Desenvolvimento
+🔗 Node • React • TypeScript • Tailwind
+
+
 
 ---
 
