@@ -62,26 +62,28 @@
 ---
 
 
+<div align="left">
+
 ## 🚀 Projetos em Destaque
 
-📖 **Livro de Receita** 
-🛠️ Em Desenvolvimento
-🔗 DevOps  
+<p>📖 <b>Livro de Receita</b><br>  
+  🛠️ Em desenvolvimento <br> 
+  🔗 DevOps</p> 
+  
+<p>📕 <b>API Catálogo</b> <br> 
+  🔗 ASP.NET Core</p> 
+  
+<p>🍔 <b>Lanches Mac</b>  <br>
+  🔗ASP.NET MVC + EF</p> 
+  
+<p>📚 <b>Sistema Biblioteca</b> (Acadêmico)  <br> 
+  🔗PHP • JS • Bootstrap</p> 
+  
+<p>⚖️ <b>Agenda Jurídica</b> (Acadêmico) <br>
+  🛠️ Em desenvolvimento <br>
+  🔗 Node • React • TS • Tailwind</p>
 
-📕 **API Catálogo**  
-🔗 ASP.NET Core  
-
-🍔 **Lanches Mac**  
-🔗 ASP.NET MVC + EF Core  
-
-📚 **Sistema Biblioteca** *(Acadêmico)*  
-🔗 PHP • JavaScript • Bootstrap  
-
-⚖️ **Agenda Jurídica** *(Acadêmico)*  
-🛠️ Em Desenvolvimento
-🔗 Node • React • TypeScript • Tailwind
-
-
+</div>
 
 ---
 
