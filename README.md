@@ -48,9 +48,13 @@
 
 <div align="center">
 
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanessaCarvalho-VNS&theme=tokyonight&include_all_commits=true)
-   ![GitHub Streak](https://streak-stats.demolab.com?user=VanessaCarvalho-VNS&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=tokyonight&hide_border=true)
+  <div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanessaCarvalho-VNS&theme=tokyonight" />
+  
+  <img height="150" src="https://streak-stats.demolab.com?user=VanessaCarvalho-VNS&theme=tokyonight&hide_border=true" />
+  
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
  
 
   <br>
