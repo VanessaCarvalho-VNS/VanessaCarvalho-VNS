@@ -48,14 +48,15 @@
 
 <div align="center">
 
-<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=VanessaCarvalho-VNS&show_icons=true&cache_seconds=1" />
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanessaCarvalho-VNS&theme=tokyonight&include_all_commits=true)
+   ![GitHub Streak](https://streak-stats.demolab.com?user=VanessaCarvalho-VNS&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&theme=tokyonight&hide_border=true)
  
-<img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCarvalho-VNS&layout=compact&hide_border=true&title_color=C77DFF&text_color=E6CCFF&bg_color=0d1117">
-  
+
   <br>
   <br>
 
-<img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanessaCarvalho-VNS&theme=dracula&bg_color=0d1117&include_all_commits=true"/>
+
 </div>
 
 ---
