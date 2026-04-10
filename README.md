@@ -22,12 +22,16 @@
 
 ---
 
+
 ##  Sobre mim
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas** – UNISA  
-📚 Estudante de **Desenvolvimento de Software Multiplataforma** – FATEC Zona Sul  
-💻 Foco em **ASP.NET Core**, **C#**, **Entity Framework** e **SQL Server**  
-🌐 Criadora do projeto **C.L Soluções**  
+💻 Desenvolvedora Backend | C# • .NET • ASP.NET Core <br>
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** – UNISA <br>
+📚 Cursando **Desenvolvimento de Software Multiplataforma** — FATEC Zona Sul <br>
+🔧 Estudando Design Patterns em C# <br>
+🚀 Buscando oportunidade de estágio em desenvolvimento backend<br>
+📍 São Paulo, SP
+
 
 ---
 
