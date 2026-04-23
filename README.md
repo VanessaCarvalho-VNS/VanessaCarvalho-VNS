@@ -8,16 +8,16 @@
 <div align="center">
   <samp>
      <br>
-    <h2> Hi there! I'm <b>Vanessa Carvalho</b> </h2>
+    <h2> Olá! Eu sou <b>Vanessa Carvalho</b> </h2>
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C77DFF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Multiplatform+Software+Development;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C77DFF&width=900&size=22&center=true&lines=Sou+do+Brasil;Sou+estudante+de+Desenvolvimento+de+Software+Multiplataforma;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
 
 <p align="center">
-  <i>💜 Desenvolvedora apaixonada por transformar ideias em soluções digitais</i>
+  <i>💜 Código limpo, soluções práticas e aprendizado constante</i><br>
 </p>
 
 ---
