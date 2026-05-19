@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:C77DFF&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:7B2CBF,9D4EDD,C77DFF&section=header"/>
 <br>
 
 <div align="center">
@@ -125,4 +125,4 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:C77DFF&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:7B2CBF,9D4EDD,C77DFF&customColorList=23&section=footer"/>
