@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:7B2CBF,9D4EDD,C77DFF&section=header"/>
-<br>
+
 
 <div align="center">
 <img width="1161" height="396" alt="Image" src="https://github.com/user-attachments/assets/e3fa95c5-ced0-4fc4-863d-d79fd792a645" />
@@ -28,9 +27,19 @@
 💻 Desenvolvedora Backend | C# • .NET • ASP.NET Core <br>
 🎓 Formada em **Análise e Desenvolvimento de Sistemas** – UNISA <br>
 📚 Cursando **Desenvolvimento de Software Multiplataforma** — FATEC Zona Sul <br>
-🔧 Estudando Design Patterns em C# <br>
-🚀 Buscando oportunidade de estágio em desenvolvimento backend<br>
-📍 São Paulo, SP
+
+
+
+```csharp
+public class Vanessa : Developer
+{
+    public string Localidade   => "São Paulo, Brasil 🇧🇷";
+    public string Foco         => "Back-end · .NET · C#";
+    public string Graduação    => "ADS - UNISA ✅";
+    public string Cursando     => "DSM - FATEC Zona Sul 📚"
+    public bool   SempreAprendendo => true;
+}
+```
 
 
 ---
@@ -38,12 +47,23 @@
 ##  Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-7F5AF0?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-7F5AF0?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/C%23-7F5AF0?style=flat&logo=csharp&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/ASP.NET_Core-7F5AF0?style=flat&logo=dotnet&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Entity_Framework-7F5AF0?style=flat&logo=dotnet&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img height="40"" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+  
+## Ferramentas
+
+<p align="center">
+<img height="40" src="https://img.shields.io/badge/Visual_Studio-7F5AF0?style=flat&logo=visualstudio&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/VS_Code-1572B6?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -67,33 +87,26 @@
 
 </div>
 
+
 ---
-
-
-<div align="left">
 
 ## 🚀 Projetos em Destaque
 
-<p>📖 <b>Livro de Receita</b><br>  
-  🛠️ Em desenvolvimento <br> 
-  🔗 DevOps</p> 
-  
-<p>📕 <b>API Catálogo</b> <br> 
-  🔗 ASP.NET Core</p> 
-  
-<p>🍔 <b>Lanches Mac</b>  <br>
-  🔗ASP.NET MVC + EF</p> 
-  
-<p>📚 <b>Sistema Biblioteca</b> (Acadêmico)  <br> 
-  🔗PHP • JS • Bootstrap</p> 
-  
-<p>⚖️ <b>Agenda Jurídica</b> (Acadêmico) <br>
-  🛠️ Em desenvolvimento <br>
-  🔗 Node • React • TS • Tailwind</p>
+<div align="center">
+
+| Projeto | Tecnologias | Status |
+|---------|------------|--------|
+| 📗 **Livro de Receita** | C# · ASP .NetCore · Devops | 🔨 Em desenvolvimento |
+| 📕 **API Catálogo** | ASP.NET Core · EF Core | ✅ Concluído |
+| 🍔 **Lanches Mac** | ASP.NET MVC · EF Core | ✅ Concluído |
+| 📚 **Sistema Biblioteca** | PHP · JavaScript · Bootstrap | ✅ Concluído |
+| ⚖️ **Agenda Jurídica** | Node · React · TypeScript · Tailwind | ✅ Concluído |
+| 🏥 **SUS Digital** | Node.js · Express · EJS | ✅ Concluído |
 
 </div>
 
 ---
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VanessaCarvalho-VNS/VanessaCarvalho-VNS/output/snake.svg" alt="Snake animation" />
@@ -105,16 +118,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanessacarvalho20" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vnscarvalh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img height="40" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.github.com/VanessaCarvalho-VNS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/vanessa.erika._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -126,3 +139,10 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:7B2CBF,9D4EDD,C77DFF&customColorList=23&section=footer"/>
+
+
+
+
+
+
+
