@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="250" src="https://github.com/VanessaCarvalho-VNS/VanessaCarvalho-VNS/blob/main/Rob%C3%B4-fofo.png"  />
+<img width="1161" height="396" alt="Image" src="https://github.com/user-attachments/assets/e3fa95c5-ced0-4fc4-863d-d79fd792a645" />
 </div>
 
 <div align="center">
