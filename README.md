@@ -137,6 +137,7 @@ public class Vanessa : Developer
   <i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i>
 </p>
 
+![](https://komarev.com/ghpvc/?username=VanessaCarvalho-VNS&style=flat-square)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:6A0DAD,100:7B2CBF,9D4EDD,C77DFF&customColorList=23&section=footer"/>
 
