@@ -140,7 +140,9 @@ public class Vanessa : Developer
 ---
 
 <div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=VanessaCarvalho-VNS&style=flat-square)
+
 </div>
 
 
