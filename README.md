@@ -142,7 +142,7 @@ public class Vanessa : Developer
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=VanessaCarvalho-VNS&style=flat&color=ff69b4)
-
+![GitHub followers](https://img.shields.io/github/followers/VanessaCarvalho-VNS?style=flat&color=ff69b4)
 </div>
 
 
